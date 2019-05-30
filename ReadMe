@@ -1,1 +1,3 @@
 基于springboot开发的API文档工具。
+访问路径：
+http://localhost:8080/swagger-ui.html
